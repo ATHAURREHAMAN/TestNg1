@@ -1,4 +1,4 @@
-package com.crm.TestNg;
+package com.crm.TestNg1;
 
 import org.testng.annotations.Test;
 
